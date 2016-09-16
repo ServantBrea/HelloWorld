@@ -1,5 +1,4 @@
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Hello World";
-    document.getElementById("myDIV").innerHTML = "How are you?";
+console.log("Please give a number!");
+void Function(n, number);
+{
 }
-//# sourceMappingURL=Main.js.map
