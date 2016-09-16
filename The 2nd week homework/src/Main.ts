@@ -1,7 +1,5 @@
 console.log("Please give a number!");
 
-BuildPyramid(4);
-
 void function BuildPyramid(n:number) {
     var i:number;
     var j:number;
