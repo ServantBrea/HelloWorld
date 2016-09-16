@@ -1,5 +1,9 @@
+console.log("Please give a number!");
+var num:number=5;
 
-    var n:number=4;
+B(5);    
+    
+function B(n:number){
     var i:number;
     var j:number;
     var k:number;
@@ -26,4 +30,4 @@
             
         console.log(a);
     }
-
+}
