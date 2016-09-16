@@ -1,6 +1,4 @@
-console.log("Please give a number!");console.log("Please give a number!");
-document.write("Good") ；document.write("Good")；
-/*
+
     var n:number=4;
     var i:number;
     var j:number;
@@ -9,21 +7,23 @@ document.write("Good") ；document.write("Good")；
     var y:string="*";
     
     for(i=0;i<n;i++){
+        var a:string="";
         
         for(j=0;j<n-(i+1);j++){
-            console.log(x);
+            a=a+x;
         }//画前空格
         
         for(k=0;k<i+1;k++){
-            console.log(y);
+            a=a+y;
             if(k<i){
-                console.log(x);}
+                a=a+x;
+            }
         }//画*串
         
         for(j=0;j<n-(i+1);j++){
-            console.log(x);
+            a=a+x;
         }//画后空格
             
-        console.log("\n");
+        console.log(a);
     }
-*/
+
