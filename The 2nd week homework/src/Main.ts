@@ -1,8 +1,7 @@
-console.log("Please give a number!");
-
-GGGGGGG;
-
-void function BuildPyramid(n:number) {
+console.log("Please give a number!");console.log("Please give a number!");
+document.write("Good") ；document.write("Good")；
+/*
+    var n:number=4;
     var i:number;
     var j:number;
     var k:number;
@@ -27,4 +26,4 @@ void function BuildPyramid(n:number) {
             
         console.log("\n");
     }
-}
+*/
