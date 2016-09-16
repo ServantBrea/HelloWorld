@@ -1,7 +1,6 @@
-console.log("Please give a number!");
-var num:number=5;
+var num:number=8;
 
-B(5);    
+B(num);    
     
 function B(n:number){
     var i:number;
