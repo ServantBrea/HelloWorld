@@ -1,3 +1,5 @@
+console.log("Print a 8 floor Pyramid!");
+
 var num:number=8;
 
 B(num);    
