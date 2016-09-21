@@ -1,5 +1,3 @@
-console.log("Print a 8 floor Pyramid!");
-
 var num:number=8;
 
 B(num);    
@@ -12,7 +10,7 @@ function B(n:number):void{
     var y="*";
     
     for(i=0;i<n;i++){
-        var a:string="";
+        var a="";
         
         for(j=0;j<n-(i+1);j++){
             a=a+x;
