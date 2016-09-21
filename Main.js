@@ -18,10 +18,6 @@ function B(n) {
                 a = a + x;
             }
         } //画*串
-        /*        for(j=0;j<n-(i+1);j++){
-                    a=a+x;
-                }//画后空格
-        */
         console.log(a);
     }
 }
