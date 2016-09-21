@@ -4,12 +4,12 @@ var num:number=8;
 
 B(num);    
     
-function B(n:number){
+function B(n:number):void{
     var i:number;
     var j:number;
     var k:number;
-    var x:string=" ";
-    var y:string="*";
+    var x=" ";
+    var y="*";
     
     for(i=0;i<n;i++){
         var a:string="";
@@ -25,10 +25,10 @@ function B(n:number){
             }
         }//画*串
         
-        for(j=0;j<n-(i+1);j++){
+/*        for(j=0;j<n-(i+1);j++){
             a=a+x;
         }//画后空格
-            
+*/            
         console.log(a);
     }
 }
