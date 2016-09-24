@@ -5,3 +5,5 @@
 ##### 目前正在用白鹭引擎学习，请多指教！
 ###### I‘m a Gamer！
 ###### Parasite Eve/Biohazard/The Witcher/Call of Duty/Uncheated/Dark Souls/The Last of Us/so on...... 
+
+![PIG](http://www.i7gg.com/Upload/Space/113/Essay/Thumb/1433663998_80317458272.jpg)
